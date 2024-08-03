@@ -76,14 +76,6 @@ To get started with this project, follow these steps:
     - Create interactive and static plots to visualize data and model results.
     - Use Plotly for interactive visualizations and Seaborn for statistical plots.
 
-## Project Structure
-
-- `data/`: Directory for storing raw and processed data files.
-- `notebooks/`: Jupyter notebooks for EDA, ML, and DL tasks.
-- `scripts/`: Python scripts for data processing, model training, and evaluation.
-- `models/`: Directory for saving trained models.
-- `results/`: Directory for storing results, plots, and reports.
-
 ## Contributing
 
 We welcome contributions to enhance the functionality and features of this project. If you would like to contribute, please follow these steps:
