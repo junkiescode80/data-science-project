@@ -41,15 +41,6 @@ This project aims to provide a robust framework for conducting data science task
 - Seaborn
 - SQLAlchemy
 
-## Installation
-
-To get started with this project, follow these steps:
-
-1. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. **Data Processing:**
