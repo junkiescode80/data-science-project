@@ -45,15 +45,7 @@ This project aims to provide a robust framework for conducting data science task
 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/datascience-project.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd datascience-project
-    ```
-3. Install the required dependencies:
+1. Install the required dependencies:
     ```sh
     pip install -r requirements.txt
     ```
@@ -100,11 +92,10 @@ We welcome contributions to enhance the functionality and features of this proje
 2. Create a new branch: `git checkout -b feature/your-feature-name`
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the Apache License. See the `LICENSE` file for more details.
 
 ---
 
