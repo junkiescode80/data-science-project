@@ -10,11 +10,9 @@ This notebook is designed for comprehensive data science projects, encompassing 
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Requirements](#requirements)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Introduction
 
