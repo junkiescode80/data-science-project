@@ -1,3 +1,5 @@
 if you want to know about foundations of machine learning and deep learning in mindmapping:
 
 https://drive.google.com/file/d/1qM6AZ4ubvpJzkOE9A7OBixKaRKzUdflP/view?usp=sharing
+
+open it with mindomo app from built in gdrive :)
