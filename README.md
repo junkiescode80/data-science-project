@@ -10,9 +10,7 @@ This notebook is designed for comprehensive data science projects, encompassing 
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Requirements](#requirements)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [License](#license)
 
 ## Introduction
 
@@ -65,19 +63,7 @@ This project aims to provide a robust framework for conducting data science task
     - Create interactive and static plots to visualize data and model results.
     - Use Plotly for interactive visualizations and Seaborn for statistical plots.
 
-## Contributing
-
-We welcome contributions to enhance the functionality and features of this project. If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-
 ## License
 
 This project is licensed under the Apache License. See the `LICENSE` file for more details.
 
----
-
-This README provides a comprehensive overview of the project, including setup instructions, features, and contribution guidelines.
